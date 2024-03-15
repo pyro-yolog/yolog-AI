@@ -1,6 +1,8 @@
-audios/
+.gitignore
+audios/*
+!audios/.gitkeep
 wandb/
 .venv/
 .idea/
-*.pt
 __pycache__/
+*.pt
